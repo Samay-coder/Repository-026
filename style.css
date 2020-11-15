@@ -1,0 +1,45 @@
+h1 {
+    color: aquamarine;
+}
+
+.head {
+    border: solid;
+    border-color: red;
+    background-color: #1ad32f;
+}
+
+.body {
+    border: solid;
+    border-color: orange;
+    padding: 10px;
+    margin: 10px;
+    background-color: #cdeded;
+}
+
+.camel {
+    border: solid;
+    border-color: seagreen;
+}
+
+.chameleon {
+    border: solid;
+    border-color: seagreen;
+}
+
+.panda {
+    border: solid;
+    border-color: seagreen;
+}
+
+body {
+    margin: 0px;
+    background-color: #fbc123;
+}
+
+a:link{
+    color: #de326f;
+}
+
+a:visited{
+    color: #3de6fa;
+}
